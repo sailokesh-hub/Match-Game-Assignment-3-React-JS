@@ -1,0 +1,13 @@
+.thumbnail {
+  width: 80px;
+  height: 80px;
+}
+
+.thumb {
+  margin-top: 10px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding-left: 0;
+  margin-left: 0;
+}
